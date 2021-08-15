@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning how to code full stack!
 - 💞️ I’m looking to collaborate on a mobile app or website!
-- 📫 How to reach me... (jacobwadejones76@gmail.com)
+- You can reach me through (tradewade76@gmail.com)
 
 <!---
 JwJones76/JwJones76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
